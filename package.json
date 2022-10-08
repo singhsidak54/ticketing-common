@@ -1,6 +1,6 @@
 {
   "name": "@sdstickets/common",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "A module which contains all the common code for our gittix project.",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
